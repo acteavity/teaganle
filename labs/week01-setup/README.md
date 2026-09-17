@@ -10,10 +10,11 @@ then commit and push this file as part of the `week01-setup` branch / PR.
 
 ```
 $ python --version
-(paste output here)
+python3.11
 
 $ python hello_env.py
-(paste output here)
+(.venv) teaganthanh@SULP2006WSWVL3:~/teaganle$ pwd
+/home/teaganthanh/teaganle
 ```
 
 ## Reflection (second PR)
