@@ -25,3 +25,6 @@ data/*
 mlruns/
 wandb/
 data/
+mlflow.db
+confusion_matrix.png
+
