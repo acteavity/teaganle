@@ -10,11 +10,22 @@ then commit and push this file as part of the `week01-setup` branch / PR.
 
 ```
 $ python --version
-python3.11
+Python 3.11.16
 
 $ python hello_env.py
-(.venv) teaganthanh@SULP2006WSWVL3:~/teaganle$ pwd
-/home/teaganthanh/teaganle
+Your environment is alive.
+
+                      Week 1 Environment Check                      
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Check          ┃ Result                                          ┃
+┡━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┩
+│ Python version │ 3.11.16                                         │
+│ Executable     │ /home/teaganthanh/mlops-course/.venv/bin/python │
+│ Platform       │ Linux                                           │
+└────────────────┴─────────────────────────────────────────────────┘
+
+$ ssh -T git@github.com
+Hi acteavity! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
 ## Reflection (second PR)
